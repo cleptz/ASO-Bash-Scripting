@@ -1,5 +1,9 @@
 #!/bin/bash
-
+################
+## Author: Pablo Barroso Bastardo.
+## Description: script en el que asignamos una ruta para un fichero 
+## mediante variables.
+################
 
 fichero="index"
 extension=".html"
