@@ -1,5 +1,11 @@
 #!/bin/bash
 
+################
+## Author: Pablo Barroso Bastardo.
+## Description: script en el que creamos una frase de bienvenida
+## mediante variables.
+################
+
 greeting="Welcome"
 
 user=$(whoami)
