@@ -1,8 +1,9 @@
 #!/bin/bash
 
 ##############
-##
-##
+## Author: Pablo Barroso Bastardo
+## Description: script que almacena una serie de variables
+## para obtener la fecha y distintos datos acerca de la fecha.
 ##############
 
 
